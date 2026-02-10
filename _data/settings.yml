@@ -1,0 +1,109 @@
+#-------------------------------
+# Site Settings
+title: Gami
+description: Gami, like origami.
+logo: '/images/logo.svg' # You can add own logo. For example '/images/logo.svg'.
+logo_dark: '/images/logo-dark.svg'
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Services'
+      url: '/services/'
+    - title: 'Writings'
+      url: '/latest/'
+    - title: 'Contact'
+      url: '/contact/'
+    
+    
+# Call to action button
+cta_button:
+  enable: true
+  cta_button_link: 'https://farcaster.xyz/gami'
+  cta_button_text: Follow
+
+
+# Home Cover Image
+home_cover_image: /images/bg.png
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_name: Gami
+  author_avatar: /images/gami.png
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_avatar: /images/gami.png
+  hero_title: Specialised Generalist
+  hero_description: G'day mates 👋 I’m Gami, an Electrotechnology Systems Electrician turned Growth Hacker from <a href="https://en.wikipedia.org/wiki/Sydney">Sydney</a>. I’ve represented Australia in <a href="https://en.wikipedia.org/wiki/Squash_(sport)">Squash</a> and have been in Crypto full time since 2017. As a high agency self-starter I've contributed to Privacy, DeFi, NFTs and DAOs. Under my leadership <a href="https://imf.bz">IMF</a> grew to $275M in deposits and <a href="https://x.com/gami_vc/status/1943906322799636893">Gnars</a> found its way to Tony Hawk Pro Skater. My social media following is over 75k.
+
+
+#-------------------------------
+# Social Settings
+social:
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/gami_vc"}
+- {icon: "fa-brands fa-telegram", name: "Telegram", link: "https://t.me/gami_vc"}
+- {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/0xigami"}
+
+# Example of adding a new link to the hero and footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Projects Section Settings
+projects:
+  enable: true
+  projects_title: Projects
+
+
+#-------------------------------
+# Section Blog Settings
+blog:
+  enable: true
+  blog_title: Writings
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp_image: '/images/20.jpg'
+  mailchimp_title: Stay Inspired Weekly
+  mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
+  mailchimp_identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+  mailchimp_button_text: Subscribe
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  form_id: gm@gami.wtf # Add your form_id
+  button_text: Send Message
+
+# NOTE
+# Tarne theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus:
+  enable: false
+  disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
+  disqus_title: What are your thoughts?
+  disqus_button_text: Show Comments
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id

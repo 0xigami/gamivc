@@ -1,0 +1,34 @@
+#-------------------------------
+# Services Settings
+services_title: Services
+services_description: High-leverage work focused on clarity, systems, and decisions that compound over time.
+services_section_enable: true
+
+services:
+  - title: Articulation & Narrative
+    description: Clear language for what is being built and why, aligned across product, technology, and culture.
+    icon: "fa-solid fa-pen-nib"
+    price: Starts at $5k
+    button_text: Book a Call
+    button_link: "https://koalendar.com/e/gamivc"
+
+  - title: Systems & Strategy
+    description: Identifying leverage points and constraints across technical, economic, and organizational systems.
+    icon: "fa-solid fa-diagram-project"
+    price: Starts at $7.5k
+    button_text: Book a Call
+    button_link: "https://koalendar.com/e/gamivc"
+
+  - title: Product & Infrastructure
+    description: Deciding what should exist, how it should work, and what can be ignored.
+    icon: "fa-solid fa-cubes"
+    price: Starts at $10k
+    button_text: Book a Call
+    button_link: "https://koalendar.com/e/gamivc"
+
+  - title: Advisory & Partnership
+    description: Ongoing strategic collaboration focused on synthesis, judgment, and course correction.
+    icon: "fa-solid fa-handshake"
+    price: Starts at $5k/mth
+    button_text: Book a Call
+    button_link: "https://koalendar.com/e/gamivc"

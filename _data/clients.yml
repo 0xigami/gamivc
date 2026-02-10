@@ -1,0 +1,35 @@
+#-------------------------------
+# Clients Settings
+clients_title: Testimonials
+clients_description: Perspectives from people I have worked alongside. Reflections on clarity, judgment, and the outcomes that emerged through close collaboration.
+clients_section_enable: false
+
+# Logos
+logos:
+  enable: true
+  logo_image:
+    - alt: "Nouns"
+      image: "/images/nintendo.svg"
+    - alt: "Gears"
+      image: "/images/gears.svg"
+    - alt: "Twitch"
+      image: "/images/twitch.svg"
+    - alt: "Hulu"
+      image: "/images/hulu.svg"
+
+
+client_items:
+  - name: "Martin Edwards"
+    image: "/images/client-1.jpg"
+    designation: "Data Scientist"
+    content : "Gami has an unusual ability to see the whole system at once. Technical constraints, incentives, culture, and narrative were all considered together, which led to decisions that saved time and avoided costly missteps."
+
+  - name: "David Roberts"
+    image: "/images/client-2.jpg"
+    designation: "Designer"
+    content : "Working with Gami brought immediate clarity. Vague ideas became concrete direction, and complex problems were reduced to their essential parts without oversimplifying what mattered."
+
+  - name: "Daniel Carter"
+    image: "/images/client-3.jpg"
+    designation: "DevOps Engineer"
+    content : "Gami consistently identified the real leverage points in our work. His judgment cut through noise, aligned the team, and helped us focus on what would actually compound over time."
