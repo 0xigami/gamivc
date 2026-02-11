@@ -17,15 +17,13 @@ menu_settings:
       url: '/services/'
     - title: 'Writings'
       url: '/latest/'
-    - title: 'Contact'
-      url: '/contact/'
     
     
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: 'https://farcaster.xyz/gami'
-  cta_button_text: Follow
+  cta_button_link: '/contact/'
+  cta_button_text: Contact
 
 
 # Home Cover Image
