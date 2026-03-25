@@ -1,10 +1,10 @@
 ---
 title: Shielded.eth
 description: A privacy-first Ethereum narrative asserting that surveillance and sound money cannot coexist.
-date: 2025-07-01 08:01:35 +0300
+date: 2024-06-01 08:01:35 +0300
 label: 
 image: '/images/project-9.jpg'
-featured: true
+featured:
 toc: 
 ---
 

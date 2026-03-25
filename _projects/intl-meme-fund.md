@@ -1,10 +1,10 @@
 ---
 title: International Meme Fund
 description: An Ethereum-native credit system extending lending infrastructure to longtail and culturally native assets.
-date: 2025-07-03 08:01:35 +0300
+date: 2024-05-06 08:01:35 +0300
 label: 
 image: '/images/project-7.jpg'
-featured: 
+featured: true
 toc: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: S@tosh.is Email Address
 description: A single, symbolic email address treated as a collectible artifact of crypto identity and mythology.
-date: 2025-07-04 08:01:35 +0300
+date: 2024-02-04 08:01:35 +0300
 label: 
 image: '/images/project-6.jpg'
 featured: 

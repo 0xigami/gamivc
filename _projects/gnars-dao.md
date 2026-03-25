@@ -1,7 +1,7 @@
 ---
 title: Gnars DAO
 description: A community-owned skateboarding collective using onchain mechanisms to fund and govern skate culture worldwide.
-date: 2025-07-03 08:01:35 +0300
+date: 2022-04-15 08:01:35 +0300
 label: 
 image: '/images/project-8.jpg'
 featured: true
