@@ -8,6 +8,8 @@ featured:
 toc: 
 ---
 
-S@tosh.is is a single email address presented as a digital artifact. It is not a startup or a platform, but a piece of internet-native property that sits at the intersection of identity, mythology, and ownership.
+[S@tosh.is](https://sa.tosh.is) is a single email address presented as a digital artifact. It is not a startup or a platform, but a piece of internet-native property that sits at the intersection of identity, mythology, and ownership.
 
 The project is intentionally minimal. Its value comes from symbolism rather than utility, functioning as a collectible, a conversation starter, and a permanent marker within crypto culture.
+
+[sa.tosh.is](https://sa.tosh.is)
